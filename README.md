@@ -11,4 +11,5 @@ Soy estudiante de DAM en CPIPF NUEVO (Málaga).
     - [Cap_4](https://github.com/AdrianPerFer/java_capitulo_4)
     - [Cap_5](https://github.com/AdrianPerFer/java_capitulo_5)
     - [Cap_6](https://github.com/AdrianPerFer/java_capitulo_6)
-    - [Cap_7](https://github.com/AdrianPerFer/java_capitulo_7)
+    - [Cap_7.1](https://github.com/AdrianPerFer/java_capitulo_7.1)
+    - [Cap_7.2](https://github.com/AdrianPerFer/java_capitulo_7.2)
